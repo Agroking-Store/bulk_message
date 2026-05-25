@@ -1,0 +1,7 @@
+import { redirect } from "next/navigation";
+
+export default function Home() {
+  redirect("/auth/sign-up");
+  
+  return null;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "whatsapp-bulk-system",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
